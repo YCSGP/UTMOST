@@ -1,10 +1,13 @@
-# [Update]--2023/06/09--for weights trained with GTEx v8, please visit https://zhaocenter.org/UTMOST.
-
-**[Update]--2018/04/24--pre-calculated covariance matrices for single-tissue and joint tests are downloadable now; updated pipeline for single-tissue/joint tests using 44 GTEx tissues + STARNET liver + BLUEPRINT 3 cell types (eQTL/sQTL).**
-
 # UTMOST
 
 UTMOST (Unified Test for MOlecular SignaTures) is a principled method to perform cross-tissue expression imputation and gene-level association analysis. The preprint could be found at [A statistical framework for cross-tissue transcriptome-wide association analysis](https://www.biorxiv.org/content/early/2018/03/21/286013).
+
+## Update History
+**2025/03/01:** For weights trained with GTEx v8, they are available [here](https://yaleedu-my.sharepoint.com/:f:/g/personal/chi_zhang_cz354_yale_edu/ErFTYeh_OrVEoFyWozl1YZsBp6zUVPJFUMGUwlEnxow4yQ?e=tQDwGW).**
+
+**2023/06/09:** For weights trained with GTEx v8, please visit https://zhaocenter.org/UTMOST.
+
+**2018/04/24:** Pre-calculated covariance matrices for single-tissue and joint tests are downloadable now; updated pipeline for single-tissue/joint tests using 44 GTEx tissues + STARNET liver + BLUEPRINT 3 cell types (eQTL/sQTL).
 
 ## Prerequisites
 
