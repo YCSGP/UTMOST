@@ -3,7 +3,7 @@
 UTMOST (Unified Test for MOlecular SignaTures) is a principled method to perform cross-tissue expression imputation and gene-level association analysis. The preprint could be found at [A statistical framework for cross-tissue transcriptome-wide association analysis](https://www.biorxiv.org/content/early/2018/03/21/286013).
 
 ## Update History
-**2025/03/01:** For weights trained with GTEx v8, they are available [here](https://yaleedu-my.sharepoint.com/:f:/g/personal/chi_zhang_cz354_yale_edu/ErFTYeh_OrVEoFyWozl1YZsBp6zUVPJFUMGUwlEnxow4yQ?e=tQDwGW).**
+**2025/11/25:** For weights trained with GTEx v8, they are available [here](https://drive.google.com/drive/folders/1SjlkufVmYW0IHRrQ1LYt6sHmYyoRgbck?usp=drive_link).**
 
 **2023/06/09:** For weights trained with GTEx v8, please visit https://zhaocenter.org/UTMOST.
 
